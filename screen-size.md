@@ -1,5 +1,9 @@
 Device | Native Resolution (Pixels) | UIKit Size (Points) | Native Scale factor | UIKit Scale factor | Screen Size | Final OS
 -------|----------------------------|---------------------|---------------------|--------------------|-------------|---------
+iPhone 13 Pro Max | 2778 x 1284 | 926 x 428 | 3.0 | 3.0 | 6.68 | latest
+iPhone 13 Pro     | 2532 x 1170 | 844 x 390 | 3.0 | 3.0 | 6.06 | latest
+iPhone 13         | 2532 x 1170 | 844 x 390 | 3.0 | 3.0 | 6.06 | latest
+iPhone 13 Mini    | 2340 x 1080 | 812 x 375 | 3.0 | 3.0 | 5.42 | latest
 iPhone 12 Pro Max | 2778 x 1284 | 926 x 428 | 3.0 | 3.0 | 6.68 | latest
 iPhone 12 Pro     | 2532 x 1170 | 844 x 390 | 3.0 | 3.0 | 6.06 | latest
 iPhone 12         | 2532 x 1170 | 844 x 390 | 3.0 | 3.0 | 6.06 | latest
