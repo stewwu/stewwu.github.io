@@ -25,3 +25,5 @@ iPhone 6s      | 1334 x 750  | 667 x 375 | 2.0   | 2.0 | 4.7  | latest
 iPhone SE      | 1136 x 640  | 568 x 320 | 2.0   | 2.0 | 4    | latest
 iPhone 6 Plus  | 1920 x 1080 | 667 x 375 | 2.608 | 3.0 | 5.5  | iOS 12
 iPhone 6       | 1334 x 750  | 667 x 375 | 2.0   | 2.0 | 4.7  | iOS 12
+
+And [a cheat sheet for size classes](https://github.com/gumob/SizeClassCheatSheet)
